@@ -1,0 +1,64 @@
+body{
+    background-image: url(background.jpg);
+    background-size: 1400px;
+}
+
+.container{
+    width: 800px;
+    margin:auto;
+}
+
+.opaco{
+    width: 800px;
+    height: 600px;
+    background-color: rgb(168, 131, 131, 0.8);
+    border-radius: 10px;
+}
+
+.intestazione{
+    text-align: center;
+}
+
+.logo{
+    width: 160px;
+}
+
+.logo-text{
+    color: green;
+}
+
+.navig{
+    background-color: green;
+    height: 20px;
+    padding: 1%;
+    text-align: center;
+}
+
+.corpo{
+    margin-left: 5px;
+}
+
+h3{
+    display:inline-block;
+}
+
+.carica1{
+    height: 30px;
+    width: 250px;
+    background-color: orange;
+    border-radius: 10px;
+}
+
+.carica2{
+    height: 30px;
+    width: 400px;
+    background-color: rgb(9, 204, 9);
+    border-radius: 10px;
+}
+
+.carica3{
+    height: 30px;
+    width: 150px;
+    background-color: rgb(109, 3, 3);
+    border-radius: 10px;
+}
